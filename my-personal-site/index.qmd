@@ -1,0 +1,21 @@
+---
+title: "个人网站"
+---
+
+::: {.hero}
+# 余明哲个人主页
+
+![头像](assets/avatar.jpg){.avatar}
+
+**余明哲**  
+*学生*
+
+:::
+
+
+
+
+## 联系我
+
+- 📧 [2625334840@qq.com](mailto:2625334840@qq.com)
+- 💼 [GitHub](https://github.com/159368qwe)
